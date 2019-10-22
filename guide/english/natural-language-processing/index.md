@@ -41,7 +41,7 @@ Next task is to build a language model. Here we consider an assumption that the 
 - Natural language interfaces to databases.
 - Document clustering.
 
-## Further readings
+## Further reading
 The field of NLP is huge. If you have read this far and have implemented the above, you have certainly loved this. Go ahead and read Jurafsky's book to learn some more new concepts. Remember, it's important to implement them as well.
 
 #### Some useful online learning resources:
