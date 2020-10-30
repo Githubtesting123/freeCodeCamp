@@ -59,7 +59,6 @@ In case of supervised learning the quality of the results can be determined. sci
 * Nearest Neighbors
 * Naive Bayes 
 * Decision Trees
-* Neural Networks
 
 #### More Information
 
