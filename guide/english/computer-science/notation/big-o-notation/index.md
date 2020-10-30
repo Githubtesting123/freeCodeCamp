@@ -62,7 +62,7 @@ Here are five Big O run times that you’ll encounter a lot, sorted from fastest
    Example: Simple search.
 3. O(n * log n)
    Example: A fast sorting algorithm, like quicksort (coming up in chapter 4).
-4. O(n2)
+4. O(n^2)
    Example: A slow sorting algorithm, like selection sort (coming up in chapter 2).
 5. O(n!)
    Example: A really slow algorithm, like the traveling salesperson (coming up next!).
